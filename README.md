@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rounded&height=200&color=EE66A6&text=Disha's%20Corner&reversal=false&textBg=false&fontColor=FFEB55&fontSize=58&fontAlign=51&animation=scaleIn&descAlign=85&descAlignY=26" alt="Disha's Header" width="100%" />
+</p>
+
 # 👋 Hi, I'm Disha!
 
 🎓 BE in Electronics & Computer Science | Minor in AI & ML  
