@@ -3,9 +3,9 @@
 
 🎓 BE in Electronics & Computer Science | Minor in AI & ML  
 💡 Passionate about building AI, ML, and full-stack projects  
-📚 Currently learning: Data Science, Image Processing & R Programming  
-💼 Intern at Persistent Systems  
-🎨 I love blending creativity, code, and storytelling.
+📚 Currently Pursuing: B.E in Electronics and Computer Science with a minor in AIML
+💼 Ex-Intern at Persistent Systems  
+🎨 I love blending creativity, code, and storytelling while solving real world problems!
 
 ## 🧰 Tech Stack
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -18,8 +18,7 @@
 
 ## ✨ About Me
 - 🌿 From **Goa**, currently exploring AI & creativity  
-- 🎵 Love *Clair de Lune* and learning new things  
-- ✍️ I share my thoughts through [my blog](https://yourbloglink.com)  
-- 💌 Reach me: [LinkedIn](https://www.linkedin.com/in/yourlinkedin/) | [Email](mailto:youremail@gmail.com)
+- 🎵 Love *reading* and learning hobbies
+- 💌 Reach me: [LinkedIn]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/disha-talaulikar-48371b234/)) | [Email](mailto:dishatalaulikar@gmail.com)
 
 
