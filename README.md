@@ -1,4 +1,3 @@
-<img src="banner.gif" width="100%">
 # 👋 Hi, I'm Disha!
 
 🎓 BE in Electronics & Computer Science | Minor in AI & ML  
