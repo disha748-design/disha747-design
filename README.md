@@ -34,3 +34,13 @@
 - 🧩 I love solving logic puzzles & exploring digital art  
 - 🌿 I have around 6 hobbies and Read 50(avg) books per year
 
+<h1 align="left">👋 Hi, I'm Disha</h1>
+<p align="right">
+  <a href="[https://www.linkedin.com/in/yourlinkedin](https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/disha-talaulikar-48371b234/)" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Disha%20Talaulikar-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="[https://yourportfolio.com](https://disha748-design.github.io/Portfolio/)" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-green?style=flat-square&logo=google-chrome" />
+  </a>
+</p>
+
