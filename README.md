@@ -34,3 +34,6 @@
 - 🧩 I love solving logic puzzles & exploring digital art  
 - 🌿 I have around 6 hobbies and Read 50(avg) books per year
 
+<p align="center">
+  <img src="[https://capsule-render.vercel.app/api?type=rounded&height=200&color=EE66A6&text=Disha's%20Corner&reversal=false&textBg=false&fontColor=FFEB55&fontSize=58&fontAlign=51&animation=scaleIn&descAlign=85&descAlignY=26" alt="Disha's Header" width="100%](https://capsule-render.vercel.app/api?type=wave&height=200&color=EE66A6&section=footer)" />
+</p>
