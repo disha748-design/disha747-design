@@ -22,11 +22,4 @@
 - ✍️ I share my thoughts through [my blog](https://yourbloglink.com)  
 - 💌 Reach me: [LinkedIn](https://www.linkedin.com/in/yourlinkedin/) | [Email](mailto:youremail@gmail.com)
 
----
 
-## 📈 GitHub Stats
-![Disha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=merko)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=merko)
-
----
-⭐️ *"Code like you’re painting ideas into existence."*
