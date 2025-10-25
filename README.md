@@ -6,7 +6,7 @@
 
 🎓 BE in Electronics & Computer Science | Minor in AI & ML  
 💡 Passionate about building AI, ML, and full-stack projects  
-📚 Currently Pursuing: B.E in Electronics and Computer Science with a minor in AIML
+📚 Currently learning: Data Science, Deep Learning & MAchine Learning   
 💼 Ex-Intern at Persistent Systems  
 🎨 I love blending creativity, code, and storytelling while solving real world problems!
 
@@ -29,4 +29,8 @@
 - 🎵 Love *reading* and learning hobbies
 - 💌 Reach me: [LinkedIn]([https://www.linkedin.com/in/yourlinkedin/](https://www.linkedin.com/in/disha-talaulikar-48371b234/)) | [Email](mailto:dishatalaulikar@gmail.com)
 
+## 🎵 Fun Facts
+- 🎧 I code best to *Taylor Swift music*  
+- 🧩 I love solving logic puzzles & exploring digital art  
+- 🌿 I have around 6 hobbies and Read 50(avg) books per year
 
